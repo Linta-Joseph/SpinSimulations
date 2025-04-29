@@ -11,4 +11,6 @@ Matlab code for simulating spin systems.
 
 **MBL_OTOC** - Time evolves a collective spin operator under a spin Hamiltonian and calculates the ZZ OTOC at each timestep. Main script to run: *Calculate_MQC_Widths*
 
-**Parametres** - Calculates and plots the inter-pulse delays of the Hamiltonian engineering pulse sequence to achieve a certain set of Hamiltonian parameters experimentally. 
+**MBL_Parametres** - Calculates and plots the inter-pulse delays of the Hamiltonian engineering pulse sequence to achieve a certain set of Hamiltonian parameters experimentally. 
+
+MBL code uses QETLAB, a Matlab toolbox for quantum entanglement. Installation instructions found here: https://qetlab.com/Main_Page 
